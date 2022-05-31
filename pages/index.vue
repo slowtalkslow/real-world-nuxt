@@ -11,8 +11,8 @@
 </template>
 
 <script>
-import EventCard from '@/components/EventCard.vue'
 import { mapState } from 'vuex'
+import EventCard from '~/components/EventCard.vue'
 
 export default {
   head() {
